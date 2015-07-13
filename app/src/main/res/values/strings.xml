@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Vanaf hier activity_main.xml -->
+    <string name="noCity">Please specify a city.</string>
+    <!-- hier eindigt activity_main.xml -->
 </resources>
